@@ -12,4 +12,4 @@ I'm also the software core chair for [RoboJackets](https://robojackets.org), as 
 
 **Publications**
 - Ziyi Wang, **Oswin So**, Keuntaek Lee, Camilo A. Duarte, Evangelos A. Theodorou. "_[Adaptive Risk Sensitive Model Predictive Control with Stochastic Search](https://arxiv.org/abs/2009.01090)_". Accepted to L4DC, 2020.
-- **Oswin So\***, Ziyi Wang\*, Jason Gibson, Bogdan Vlahov, Manan S. Gandhi, Guan-Horng Liu, Evangelos A. Theodorou. "_[Variational Inference MPC using Tsallis Divergence](https://arxiv.org/abs/2104.00241)_". Under review.
+- **Oswin So\***, Ziyi Wang\*, Jason Gibson, Bogdan Vlahov, Manan S. Gandhi, Guan-Horng Liu, Evangelos A. Theodorou. "_[Variational Inference MPC using Tsallis Divergence](https://arxiv.org/abs/2104.00241)_". Accepted to RSS, 2021.
