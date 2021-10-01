@@ -9,7 +9,10 @@ I'm also the software core chair for [RoboJackets](https://robojackets.org), as 
 
 **Links**
 - [LinkedIn](linkedin.com/in/oswinso)
+- [Google Scholar](https://scholar.google.com/citations?user=AwlxGQgAAAAJ&hl=en)
 
 **Publications**
-- Ziyi Wang, **Oswin So**, Keuntaek Lee, Camilo A. Duarte, Evangelos A. Theodorou. "_[Adaptive Risk Sensitive Model Predictive Control with Stochastic Search](https://arxiv.org/abs/2009.01090)_". Accepted to L4DC, 2020.
-- **Oswin So\***, Ziyi Wang\*, Jason Gibson, Bogdan Vlahov, Manan S. Gandhi, Guan-Horng Liu, Evangelos A. Theodorou. "_[Variational Inference MPC using Tsallis Divergence](https://arxiv.org/abs/2104.00241)_". Accepted to RSS, 2021.
+- **Oswin So**, Ziyi Wang, Evangelos A. Theodorou. "_Maximum Entropy Differential Dynamic Programming_". Under Review for ICRA 2022.
+- Ziyi Wang, **Oswin So**, Keuntaek Lee, Camilo A. Duarte, Evangelos A. Theodorou. "_[Adaptive Risk Sensitive Model Predictive Control with Stochastic Search](https://arxiv.org/abs/2009.01090)_". Accepted to L4DC 2020.
+- **Oswin So\***, Ziyi Wang\*, Jason Gibson, Bogdan Vlahov, Manan S. Gandhi, Guan-Horng Liu, Evangelos A. Theodorou. "_[Variational Inference MPC using Tsallis Divergence](https://arxiv.org/abs/2104.00241)_". Accepted to RSS 2021.
+- Ethan N. Evans, **Oswin So**, Andrew P. Kendall, Guan-Horng Liu, Evangelos A. Theodorou. "_[Differential Dynamic Programming for Distributed and Boundary Control of Fields](https://arxiv.org/abs/2104.04044)_". Under Review.
