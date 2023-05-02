@@ -15,7 +15,7 @@ I was the software core chair for [RoboJackets](https://robojackets.org) in 2020
 - [Google Scholar](https://scholar.google.com/citations?user=AwlxGQgAAAAJ&hl=en)
 
 **Publications**
-- **Oswin So**, Paul Drews, Thomas Balch, Velin Dimitrov, Guy Rosman, Evangelos A Theodorou. "_[MPOGames: Efficient Multimodal Partially Observable Dynamic Games]()_". **ICRA 2023**
+- **Oswin So**, Paul Drews, Thomas Balch, Velin Dimitrov, Guy Rosman, Evangelos A Theodorou. "_[MPOGames: Efficient Multimodal Partially Observable Dynamic Games](https://arxiv.org/abs/2210.10814)_". **ICRA 2023**
 - **Oswin So**, Gongjie Li, Evangelos A Theodorou, Molei Tao. "_[Data-driven discovery of non-Newtonian astronomy via learning non-Euclidean Hamiltonian](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_40.pdf)_". **NeurIPS 2022, ML4PS**
 - Guan-Horng Liu, Tianrong Chen*, **Oswin So***, Evangelos A Theodorou. "_[Deep Generalized Schrodinger Bridge](https://arxiv.org/abs/2209.09893)_". **NeurIPS 2022**
 - **Oswin So**, Kyle Stachowicz, Evangelos A. Theodorou. "_[Multimodal Maximum Entropy Dynamic Games](https://oswinso.xyz/#so2022multimodal)_".
