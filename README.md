@@ -2,9 +2,9 @@
 
 Hi, I'm Oswin.
 
-I'm a first year graduate student in [REALM](https://aeroastro.mit.edu/realm/) at MIT working on safe planning and control.
+I'm a third year graduate student in [REALM](https://aeroastro.mit.edu/realm/) at MIT working on safe planning and control.
 
-Previously, I did undergraduate research in the [Autonomous Decision Systems Laboratory](https://sites.gatech.edu/acds/) at Georgia Tech working on the areas of stochastic optimization and risk sensitive control.
+Previously, I did undergraduate research in the [Autonomous Decision Systems Laboratory](https://sites.gatech.edu/acds/) at Georgia Tech working on the areas of stochastic optimization and risk-sensitive control.
 
 I was the software core chair for [RoboJackets](https://robojackets.org) in 2020, as well as a software member on our [RoboCup SSL](https://github.com/RoboJackets/robocup-software/) team. In the past, I was also the software lead for the [IGVC](https://github.com/RoboJackets/igvc-software) team.
 
@@ -14,7 +14,11 @@ I was the software core chair for [RoboJackets](https://robojackets.org) in 2020
 - [LinkedIn](https://linkedin.com/in/oswinso)
 - [Google Scholar](https://scholar.google.com/citations?user=AwlxGQgAAAAJ&hl=en)
 
-**Publications**
+**Publications** (Potentially outdated. For an updated list, see my [Google Scholar](https://scholar.google.com/citations?user=AwlxGQgAAAAJ&hl=en) page)
+- Allen M Wang, **Oswin So**, Charles Dawson, Darren T Garnier, Cristina Rea, Chuchu Fan. "_[Active Disruption Avoidance and Trajectory Design for Tokamak Ramp-downs with Neural Differential Equations and Reinforcement Learning](https://arxiv.org/pdf/2402.09387)_". Under Review.
+- Songyuan Zhang*, **Oswin So\***, Kunal Garg, Chuchu Fan. "_[GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control](https://arxiv.org/pdf/2401.14554)_". _Under Review for TRO_
+- Kunal Garg, Songyuan Zhang, **Oswin So**, Charles Dawson, Chuchu Fan. "_[Learning safe control for multi-robot systems: Methods, verification, and open challenges](https://arxiv.org/abs/2311.13714)_". **Annual Reviews in Control**
+- **Oswin So**, Zachary Serlin, Makai Mann, Jake Gonzales, Kwesi Rutledge, Nicholas Roy, Chuchu Fan. "_[How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems](https://mit-realm.github.io/pncbf/)_". **ICRA 2024**
 - **Oswin So**, Chuchu Fan. "_[Solving Stabilize-Avoid Optimal Control via Epigraph Form and Deep Reinforcement Learning](https://mit-realm.github.io/efppo)_". **RSS 2023**
 - **Oswin So**, Paul Drews, Thomas Balch, Velin Dimitrov, Guy Rosman, Evangelos A Theodorou. "_[MPOGames: Efficient Multimodal Partially Observable Dynamic Games](https://arxiv.org/abs/2210.10814)_". **ICRA 2023**
 - **Oswin So**, Gongjie Li, Evangelos A Theodorou, Molei Tao. "_[Data-driven discovery of non-Newtonian astronomy via learning non-Euclidean Hamiltonian](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_40.pdf)_". **NeurIPS 2022, ML4PS**
