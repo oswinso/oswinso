@@ -15,8 +15,12 @@ I was the software core chair for [RoboJackets](https://robojackets.org) in 2020
 - [Google Scholar](https://scholar.google.com/citations?user=AwlxGQgAAAAJ&hl=en)
 
 **Publications** (Potentially outdated. For an updated list, see my [Google Scholar](https://scholar.google.com/citations?user=AwlxGQgAAAAJ&hl=en) page)
+- Songyuan Zhang\*, **Oswin So\***, Mitchell Black, Zachary Serlin, Chuchu Fan. "_[Solving Multi-Agent Safe Optimal Control with Distributed Epigraph Form MARL](https://arxiv.org/abs/2504.15425)_". **RSS 2025**
+- **Ji Yin\***, **Oswin So\***, Eric Yang Yu, Chuchu Fan, Panagiotis Tsiotras. "_[Safe Beyond the Horizon: Efficient Sampling-based MPC with Neural Control Barrier Functions](https://arxiv.org/abs/2502.15006)_". **RSS 2025**
+- Songyuan Zhang, **Oswin So**, Mitchell Black, Chuchu Fan. "_[Discrete GCBF Proximal Policy Optimization for Multi-agent Safe Optimal Control](https://openreview.net/forum?id=1X1R7P6yzt)_". **ICLR 2025**
 - Allen M Wang, **Oswin So**, Charles Dawson, Darren T Garnier, Cristina Rea, Chuchu Fan. "_[Active Disruption Avoidance and Trajectory Design for Tokamak Ramp-downs with Neural Differential Equations and Reinforcement Learning](https://arxiv.org/pdf/2402.09387)_". Under Review.
-- Songyuan Zhang*, **Oswin So\***, Kunal Garg, Chuchu Fan. "_[GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control](https://arxiv.org/pdf/2401.14554)_". _Under Review for TRO_
+- Songyuan Zhang*, **Oswin So\***, Kunal Garg, Chuchu Fan. "_[GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control](https://ieeexplore.ieee.org/document/10842511/)_". **TRO**
+- **Oswin So**, Chuchu Fan. "_["Comment(s) on “Control barrier functions for stochastic systems” \[Automatica 130 (2021) 109688\]](https://www.sciencedirect.com/science/article/abs/pii/S0005109825000779)_". **Automatica**
 - Kunal Garg, Songyuan Zhang, **Oswin So**, Charles Dawson, Chuchu Fan. "_[Learning safe control for multi-robot systems: Methods, verification, and open challenges](https://arxiv.org/abs/2311.13714)_". **Annual Reviews in Control**
 - **Oswin So**, Zachary Serlin, Makai Mann, Jake Gonzales, Kwesi Rutledge, Nicholas Roy, Chuchu Fan. "_[How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems](https://mit-realm.github.io/pncbf/)_". **ICRA 2024**
 - **Oswin So**, Chuchu Fan. "_[Solving Stabilize-Avoid Optimal Control via Epigraph Form and Deep Reinforcement Learning](https://mit-realm.github.io/efppo)_". **RSS 2023**
